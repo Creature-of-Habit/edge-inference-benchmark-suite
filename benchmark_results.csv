@@ -1,0 +1,2 @@
+model_name,min_latency_ms,max_latency_ms,mean_latency_ms,p95_latency_ms,throughput_fps
+tiny_model.onnx,0.12710003647953272,0.32160000409930944,0.15026938802163517,0.2583599649369713,6654.715329352536
